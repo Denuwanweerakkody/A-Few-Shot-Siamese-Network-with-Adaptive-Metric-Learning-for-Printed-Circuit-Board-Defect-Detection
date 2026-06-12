@@ -123,7 +123,7 @@ The primary implementation runs on **Google Colab** with GPU support. Open the n
 This project uses the **DeepPCB** dataset containing PCB defect images across six categories.
 
 - **Total images**: ~1,384
-- **Split strategy**: Stratified 70% train / 15% validation / 15% test
+- **Split strategy**: Stratified 80% train / 10% validation / 10% test
 - **Few-shot episodes**: N-way K-shot tasks sampled from training split
 
 > Dataset is not included in this repository. Please download from the [DeepPCB GitHub](https://github.com/tangsanli5201/DeepPCB) and place under `data/`.
