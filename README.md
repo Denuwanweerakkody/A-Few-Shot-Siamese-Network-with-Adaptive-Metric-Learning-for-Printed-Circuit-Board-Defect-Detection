@@ -156,8 +156,8 @@ If you use this work, please cite:
 
 ## 👥 Authors
 
-- **Denu Weerakkody** — [@Denuwanweerakkody](https://github.com/Denuwanweerakkody)
-- **Efosa Osagie** — Collaborator
+- **Denuwan Weerakkody** — [@Denuwanweerakkody](https://github.com/Denuwanweerakkody)
+- **Dr. Rebecca** — Collaborator
 
 ---
 
