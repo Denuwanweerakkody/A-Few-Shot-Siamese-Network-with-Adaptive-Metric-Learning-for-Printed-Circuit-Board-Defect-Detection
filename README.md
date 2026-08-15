@@ -120,7 +120,7 @@ The primary implementation runs on **Google Colab** with GPU support. Open the n
 
 ## 📦 Dataset
 
-This project uses the **DeepPCB** dataset containing PCB defect images across six categories.
+This project uses the **Kegalle and DeepPCB** dataset containing PCB defect images across six categories.
 
 - **Total images**: ~1,384
 - **Split strategy**: Stratified 80% train / 10% validation / 10% test
